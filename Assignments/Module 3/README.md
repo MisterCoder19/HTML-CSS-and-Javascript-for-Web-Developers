@@ -1,2 +1,6 @@
-# HTML-CSS-and-Javascript-for-Web-Developers
-Folder in repository that will serve as a container folder for the solution to this assignment.
+
+# Module-3 Coding Assignment
+
+Coursera course: HTML, CSS, and Javascript for Web Developers
+
+# To see the output [CLICK HERE](https:///Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
