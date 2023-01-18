@@ -3,4 +3,4 @@
 
 Coursera course: HTML, CSS, and Javascript for Web Developers
 
-# To see the output [CLICK HERE](https:///Coursera-HTML-CSS-and-JavaScript-for-Web-Developers/Assignments/module-3/index.html)
+# To see the output [CLICK HERE](https://mistercoder19.github.io/HTML-CSS-and-Javascript-for-Web-Developers/Assignments/Module%203/index.html)
